@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+.container{
+	background-color: linen;
+	font-family: "Times New Roman", Times, serif;
+}
+h2 {
+  color: navy;
+}
+#divCustomersGrid {
+   margin-left: 140px;
+}
+#divPerformsGrid {
+   margin-left: 140px;
+}
